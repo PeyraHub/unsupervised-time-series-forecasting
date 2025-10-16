@@ -26,3 +26,6 @@ python-dotenv>=0.20.0
 requests>=2.31.0
 plotly>=5.20  # (opcional para visualizaciones interactivas; tampoco creo que lo usemos pero jic) 
 jupyter
+# Tuning/experiment tracking
+optuna>=3.6
+mlflow>=2.14
